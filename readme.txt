@@ -3,7 +3,7 @@ This program relies on JavaFX which does not have native support on JDK versions
 To run the program, open a command prompt and from within this directory run the command..
 java -jar PassiveLogic_Project.jar 
 
-if this does not work than I have also included the source code.
+If this does not work than I have also included the source code.
 Uncompiled file is located at PassiveLogic\passivelogic_project\Main.java
 
 This must be run with the JDK version 10.0.2 or another JRE that supports JavaFX 
